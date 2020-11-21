@@ -182,7 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/heart/proprietary/product/lib64/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.1.so
 
 PRODUCT_PACKAGES += \
-    libplatformconfig \
     WfdService \
     com.qualcomm.location \
     PowerOffAlarm \
